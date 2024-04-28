@@ -1,5 +1,5 @@
 # Victor Luhan
-Back end developer, from Recife-PE, Brazil, Graduating in Analysis and Development of Systems. Skills in Java, Spring boot and MySQL. I am looking for the first opportunity in the labor market, to be able to acquire more knowledge and grow professionally.
+Back end developer, from Recife-PE, Brazil, Graduating in Analysis and Development of Systems. Skills in Python, Node.js, SQL, Javascript. I am looking for the first opportunity in the labor market, to be able to acquire more knowledge and grow professionally.
 
 # Connect with me
 
